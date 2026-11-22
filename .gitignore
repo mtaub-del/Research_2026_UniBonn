@@ -1,7 +1,9 @@
 .venv/
-*.csv
-*.zip
-*.parquet
 __pycache__/
 .ipynb_checkpoints/
+data/
+*.parquet
+*.dta
+*.xlsx
 .DS_Store
+Thumbs.db
